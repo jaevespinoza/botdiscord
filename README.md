@@ -19,7 +19,7 @@ Sends message shipping the author of it with a random person of the server.
 No arguments required.
 
 <p align="center"> 
-<img src="readme-images/H5tPHlX.png">
+<img src="readme-images/cBYZ7or.png">
 </p>
 
 ## add
@@ -34,6 +34,6 @@ Pairs two students from the list previously mentioned to create a room.
 No arguments required.
 
 <p align="center"> 
-<img src="readme-images/cBYZ7or.png">
+<img src="readme-images/H5tPHlX.png">
 </p>
 
