@@ -22,3 +22,8 @@ Adds the name of a student to a list. This list is later on used for the next fu
 Arguments are:
 * Name of the student wrapped in parenthesis
 
+## getroom
+Pairs two students from the list previously mentioned to create a room.
+
+No arguments required.
+
