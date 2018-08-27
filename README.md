@@ -33,11 +33,19 @@ Prints all the students, their status and talents.
 
 No arguments required.
 
+<p align="center"> 
+<img src="readme-images/students.png">
+</p>
+
 ## kill
 Kills a student from the list. 
 
 Arguments are:
 * Exact name of the student wrapped in parenthesis
+
+<p align="center"> 
+<img src="readme-images/kill.png">
+</p>
 
 ## update
 Updates the status of the students on the list by writing them on the student-file.txt file.
@@ -59,6 +67,10 @@ Gets all the public information from a student from the student.csv file.
 Arguments required:
 * Name of the student
 
+<p align="center"> 
+<img src="readme-images/public.png">
+</p>
+
 ## Background loop
 This background loops is in charge of making the time/weather announcements based on a list of your choice. It uses the time-weather.txt file to write the current weather and time so that if the bot fails, it doesn't reset back to the morning.
 
@@ -79,3 +91,7 @@ Beautifies a message by adding "-nya" to the end of every word.
 
 Argument required:
 * Message to be beautified
+
+<p align="center"> 
+<img src="readme-images/nya.png">
+</p>
