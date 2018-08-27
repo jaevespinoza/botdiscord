@@ -1,23 +1,22 @@
 # botdiscord
 Bot utilized for a Danganronpa Discord RP.
 
-## Functions after bot connects
-### sendto
+## sendto
 Sends message to a channel. Arguments are:
 * Channel name wrapped in parenthesis
 * Message to be sent wrapped in square bracket
 
-### sendtoid
+## sendtoid
 Sends message to a channel based on their id. Arguments are:
 * Channel id wrapped in parenthesis
 * Message to be sent wrapped in square bracket
 
-### ship
+## ship
 Sends message shipping the author of it with a random person of the server.
 
 No arguments required.
 
-### add
+## add
 Adds the name of a student to a list. This list is later on used for the next function.
 
 Arguments are:
