@@ -18,6 +18,10 @@ Sends message shipping the author of it with a random person of the server.
 
 No arguments required.
 
+<p align="center"> 
+<img src="readme-images/H5tPHlX.png">
+</p>
+
 ## add
 Adds the name of a student to a list. This list is later on used for the next function.
 
@@ -30,6 +34,6 @@ Pairs two students from the list previously mentioned to create a room.
 No arguments required.
 
 <p align="center"> 
-<img src="readme-images/Uk4flDY.png">
+<img src="readme-images/cBYZ7or.png">
 </p>
 
