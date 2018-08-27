@@ -13,15 +13,6 @@ Sends message to a channel based on their id. Arguments are:
 * Channel id wrapped in parenthesis
 * Message to be sent wrapped in square bracket
 
-## ship
-Sends message shipping the author of it with a random person of the server.
-
-No arguments required.
-
-<p align="center"> 
-<img src="readme-images/cBYZ7or.png">
-</p>
-
 ## add
 Adds the name of a student to a list. This list is later on used for the next function.
 
@@ -37,3 +28,54 @@ No arguments required.
 <img src="readme-images/H5tPHlX.png">
 </p>
 
+## students
+Prints all the students, their status and talents.
+
+No arguments required.
+
+## kill
+Kills a student from the list. 
+
+Arguments are:
+* Exact name of the student wrapped in parenthesis
+
+## update
+Updates the status of the students on the list by writing them on the student-file.txt file.
+
+No arguments are required.
+
+## announcement
+Sends an announcement to a specific channel that says where someone died.
+
+Arguments required:
+* Place where the body was found wrapped in parenthesis
+<p align="center"> 
+<img src="readme-images/Uk4flDY.png">
+</p>
+
+## public
+Gets all the public information from a student from the student.csv file.
+
+Arguments required:
+* Name of the student
+
+## Background loop
+This background loops is in charge of making the time/weather announcements based on a list of your choice. It uses the time-weather.txt file to write the current weather and time so that if the bot fails, it doesn't reset back to the morning.
+
+# Meme functions
+
+
+## ship
+Sends message shipping the author of it with a random person of the server.
+
+No arguments required.
+
+<p align="center"> 
+<img src="readme-images/cBYZ7or.png">
+</p>
+
+## nya
+Beautifies a message by adding "-nya" to the end of every word.
+
+Argument required:
+* Message to be beautified
