@@ -14,5 +14,12 @@ Sends message to a channel based on their id. Arguments are:
 
 ### ship
 Sends message shipping the author of it with a random person of the server.
+
 No arguments required.
+
+### add
+Adds the name of a student to a list. This list is later on used for the next function.
+
+Arguments are:
+* Name of the student wrapped in parenthesis
 
