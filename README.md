@@ -1,6 +1,8 @@
 # botdiscord
 Bot utilized for a Danganronpa Discord RP.
 
+
+
 ## sendto
 Sends message to a channel. Arguments are:
 * Channel name wrapped in parenthesis
@@ -26,4 +28,8 @@ Arguments are:
 Pairs two students from the list previously mentioned to create a room.
 
 No arguments required.
+
+<p align="center"> 
+<img src="readme-images/Uk4flDY.png">
+</p>
 
